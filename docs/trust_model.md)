@@ -1,0 +1,18 @@
+# Trust Model
+
+## Overview
+
+The Trust Model describes how trust is evaluated, managed, and propagated throughout the system. This model leverages cryptographic techniques to ensure that trust is earned and reflected based on user behavior. Users are assigned trust scores based on their actions, evaluations, and the reliability of their interactions, which influence the visibility and reputation of their content.
+
+### 日本語
+
+信頼モデルは、システム全体で信頼がどのように評価、管理、伝播されるかを説明します。このモデルは、ユーザーの行動に基づいて信頼が築かれ、反映されることを保証するために、暗号技術を活用します。ユーザーは、行動、評価、インタラクションの信頼性に基づいて信頼スコアを付与され、これがコンテンツの可視性や評判に影響を与えます。
+
+## Goals
+
+- **Decentralized Reputation**: Establish a decentralized mechanism for trust evaluation that is independent of any central authority.
+- **Transparent Trust Scores**: Provide a transparent way for users to view the trust scores of others, ensuring the credibility of information exchanged.
+- **Protection Against Malicious Behavior**: Detect and mitigate malicious actors (e.g., spammers, bots) through a combination of trust scoring and counter-evaluations.
+- **Dynamic Trust Adjustments**: Ensure that trust scores
+
+---
