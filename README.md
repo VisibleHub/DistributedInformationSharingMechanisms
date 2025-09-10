@@ -1,4 +1,4 @@
-# VisibleHub - Distributed Information Sharing Mechanisms
+# Distributed Information Sharing Mechanisms
 Prototype spec for a decentralized, privacy-preserving info sharing framework.  Covers network layer, app framework, and app specs to enable anonymous and trustworthy communication.
 
 # 分散型情報共有機構 - アーリーアクセス仕様書（第0版）  
