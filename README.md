@@ -163,6 +163,16 @@ This repository is in an early-access state (v0.0) and subject to change. Commun
 
 ---
 
+
+## Documentation
+
+- [Network Layer Specification](./docs/network_layer.md)
+- [Application Framework](./docs/application_framework.md)
+- [Application Use Cases](./docs/applications.md)
+- [Trust Model](./docs/trust_model.md)
+- [Security Considerations](./docs/security_considerations.md)
+
+
 ---
 
 ## システム構成概要（Three-layer Model）
